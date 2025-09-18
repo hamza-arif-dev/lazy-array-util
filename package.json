@@ -2,7 +2,6 @@
   "name": "@hamzaarif/lazy-array",
   "version": "0.0.0",
   "description": "Lazy evaluation array utilities",
-  "private": "false",
   "license": "MIT",
   "author": "Hamza Arif",
   "type": "module",
