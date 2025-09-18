@@ -1,2 +1,2 @@
-export { LazyArray } from "./LazyArray.ts";
-export type { LazyArrayOptions } from "./LazyArray.ts";
+export { LazyArray } from "./LazyArray";
+export type { LazyArrayOptions } from "./LazyArray";
