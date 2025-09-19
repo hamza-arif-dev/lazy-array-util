@@ -1,5 +1,5 @@
 {
-  "name": "lazy-array",
+  "name": "lazy-array-util",
   "version": "1.0.0",
   "description": "Lazy evaluation array utilities",
   "license": "MIT",
